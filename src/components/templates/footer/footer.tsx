@@ -14,12 +14,12 @@ export const Footer = () => {
         <div className="mt-8">
           {t('footer.powerBy')}{' '}
           <Link
-            href="https://www.contentful.com"
+            href="https://twitter.com/rusIQe"
             rel="noopener noreferrer"
             target="_blank"
             className="text-blue500"
           >
-            Contentful
+            Tau
           </Link>
         </div>
       </Container>
